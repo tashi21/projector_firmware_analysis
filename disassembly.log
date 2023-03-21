@@ -5,4 +5,3 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 1048579       0x100003        ARM executable code, 32-bit, big endian, at least 1250 valid instructions
 2098649       0x2005D9        ARM executable code, 16-bit (Thumb), big endian, at least 908 valid instructions
 4193302       0x3FFC16        ARM executable code, 16-bit (Thumb), little endian, at least 500 valid instructions
-
