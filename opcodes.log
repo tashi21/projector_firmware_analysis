@@ -1,0 +1,15 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+263727        0x4062F         Intel x86 instructions, nops
+263735        0x40637         Intel x86 instructions, nops
+263743        0x4063F         Intel x86 instructions, nops
+263751        0x40647         Intel x86 instructions, nops
+263759        0x4064F         Intel x86 instructions, nops
+528193        0x80F41         Intel x86 instructions, nops
+2237428       0x2223F4        ARM instructions, function prologue
+2655001       0x288319        Ubicom32 instructions, function epilogue
+2667705       0x28B4B9        Ubicom32 instructions, function epilogue
+2669817       0x28BCF9        Ubicom32 instructions, function epilogue
+2671929       0x28C539        Ubicom32 instructions, function epilogue
+
